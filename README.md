@@ -128,4 +128,4 @@ COPY app /usr/share/nginx/html
 ## Автор
 
 Александр Русанов — начинающий DevOps-инженер (junior).
-Портфолио: [сайт-визитка проекта](./app/index.html) · [Telegram](https://t.me/a_v_rusanov) · [GitHub](https://github.com/alexxruss)
+Портфолио: [сайт-визитка](avrusanov.ru) · [Telegram](https://t.me/a_v_rusanov) · [GitHub](https://github.com/alexxruss)
